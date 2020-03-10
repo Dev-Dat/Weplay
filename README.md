@@ -20,7 +20,7 @@
     <td>1</td>
     <td>21</td>
     <td>13</td>
-    <td>8</td>
+    <td>(8)</td>
     <td>5</td>
 </tr>
 <tr>
