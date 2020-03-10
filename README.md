@@ -14,7 +14,7 @@
     <td>20</td>
     <td>2</td>
     <td>25</td>
-    <td>12</td>
+    <td>(12)</td>
 </tr>
 <tr>
     <td>1</td>
