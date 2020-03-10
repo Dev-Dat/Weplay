@@ -6,7 +6,7 @@
     <td>23</td>
     <td>22</td>
     <td>15</td>
-    <td>3</td>
+    <td>((3)</td>
     <td>14</td>
 </tr>
 <tr>
